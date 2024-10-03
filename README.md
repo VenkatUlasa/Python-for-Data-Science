@@ -60,7 +60,7 @@ Problem 8 :- Write a Python program to capitalize the first letter of each word 
 
 Problem 9 :- Write a Python program to find the frequency of each character in a string.OutPut should be in a form of Key:value pair.
 
-    we know Dictionary can not accept repeated keys.
+    we know Dictionary can not accept repeated Keys.
     so,we can iterate the given string and count the frecuency of every char.
     then we can add char as a key and frequency a value to the dictionary
 
